@@ -1,5 +1,7 @@
 # VBA-of-Wall-Street
 
+![stock](stockmarket.jpg)
+
 The objective of this project is to use VBA scripting to analyze real stock market data.
 
 ## Task-1
